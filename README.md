@@ -1,10 +1,9 @@
 # RLBWT-Based-LCP-Computation-in-Compressed-Space-Lit-Review-
 
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/92a59e81-5a0b-406a-a66b-2640f4749e13" />
-
-
 This is a Lit. Review on the methods used in [RLBWT-Based LCP Computation in Compressed Space for
 Terabase-Scale Pangenome Analysis](https://www.biorxiv.org/content/10.64898/2026.01.23.701410v1.full.pdf). 
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/b0cf088f-6b3a-47dd-a1b7-5097a4ede95b" />
 
 
 ## Notes
